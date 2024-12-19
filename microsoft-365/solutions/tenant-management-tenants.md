@@ -154,3 +154,8 @@ On an ongoing basis, you might need to:
 [![Step 2. Optimize your tenant for network for access.](../media/tenant-management-overview/tenant-management-step-grid-networking.png)](tenant-management-networking.md)
 
 Continue with [networking](tenant-management-networking.md) to provide optimal networking from your workers to Microsoft 365 cloud services.
+
+
+Follow other useful resources:
+
+1. [Office 365 tenant to tenant migration step by step](https://www.linkedin.com/pulse/microsoft-office-365-tenant-migration-step-by-step-pradeep-katiyar-dtotf)
